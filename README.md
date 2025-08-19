@@ -234,10 +234,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch team for the excellent deep learning framework
 - CIFAR-10 dataset creators for the benchmark dataset
 
-## 📞 Contact
-
-For questions or collaborations, please reach out via [GitHub Issues](https://github.com/yourusername/convmixer-experiments/issues).
-
 ---
 
 **Note**: This implementation is for research and educational purposes. For production use, consider additional optimizations and thorough testing.
