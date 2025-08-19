@@ -236,7 +236,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch team for the excellent deep learning framework
 - CIFAR-10 dataset creators for the benchmark dataset
 
-📞 Contact
+## 📞 Contact
+
+For questions or collaborations, please reach out via:
 Guy Damari - damariguy7@gmail.com
 Noa Cohen - noa.j.cohen@gmail.com
 
