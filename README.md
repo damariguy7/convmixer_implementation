@@ -1,4 +1,3 @@
-# convmixer-implementation
 # ConvMixer: Patches Are All You Need? 🚀
 
 A PyTorch implementation and comprehensive experimental study of the ConvMixer architecture from the paper ["Patches Are All You Need?"](https://arxiv.org/abs/2201.09792). This project explores various architectural modifications and hyperparameter optimizations to improve performance on the CIFAR-10 dataset.
@@ -27,6 +26,9 @@ The ConvMixer is a simple yet effective convolutional neural network that achiev
 This approach maintains computational efficiency while capturing long-range dependencies effectively.
 
 ## 🏗️ Architecture
+
+![ConvMixer Architecture](./convmixer_arch.png)
+*ConvMixer architecture overview showing patch embedding, ConvMixer blocks, and classification head*
 
 The ConvMixer architecture consists of:
 
@@ -233,6 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Original ConvMixer paper: ["Patches Are All You Need?"](https://arxiv.org/abs/2201.09792)
 - PyTorch team for the excellent deep learning framework
 - CIFAR-10 dataset creators for the benchmark dataset
+
 
 ---
 
